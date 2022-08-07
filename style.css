@@ -1,0 +1,54 @@
+/*body{
+	min-height: 2000px;
+}*/
+.jumbotron{
+	padding-top: 8rem; /* 2rem= atas&bawah 1rem= kiri&kanan */
+	/*background-color: #8F8580; 786d5f*/
+	background-color: #2d251f;
+}
+/*kalo titik tuh sm dengan kelas aka class*/
+
+/*#projects{*/
+	/*background-color: @e2edff;*/
+	/*#C3C3C3*/
+	/*Kalau id, berarti pake # dipanggilnya*/
+/*}*/
+
+/*#about{
+	background-color: @#7FA0B1;
+}
+
+*/
+.progress{
+	background-color: #8F8580;
+}
+section{
+	padding-top: 4rem;
+}
+
+/*Icon Button Social Media*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-instagram {
+  background: #f39998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #1a1613;
+  color: white;
+}
