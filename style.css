@@ -2,9 +2,10 @@
 	min-height: 2000px;
 }*/
 .jumbotron{
-	padding-top: 8rem; /* 2rem= atas&bawah 1rem= kiri&kanan */
+	padding-top: 8rem; 
+	background-image: url('img/pacto.jpg');
 	/*background-color: #8F8580; 786d5f*/
-	background-color: #2d251f;
+	/*background-color: #2d251f; */
 }
 
 .progress{
